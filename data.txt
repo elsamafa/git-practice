@@ -1,3 +1,4 @@
 Name: Elsa
 Age: 26
 Favourite colour: violet
+Example of pulling a remote repository
